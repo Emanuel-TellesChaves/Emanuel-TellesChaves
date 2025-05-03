@@ -69,13 +69,6 @@ Results‑driven **finance × data‑science** professional applying machine
 
 ---
 
-## 🏆 Achievements  
-
-- *Dean’s List* – University of Notre Dame  
-- Selected for **IDEA Center Green‑Light Accelerator** (ValuEstate)  
-- 2nd Place – Undergraduate Investment Pitch Competition  
-
----
 
 ## 🎯 Interests  
 
