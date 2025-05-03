@@ -1,87 +1,90 @@
 # Emanuel Telles Chaves
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/emanuel-telles-chaves-7b8065233/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:etellesc@nd.edu)
 
-## 🎓 About Me
-Finance major at Notre Dame's Mendoza College of Business with a focus on the intersection of machine learning and financial markets. Co-founder of ValuEstate, where I am developing ML-powered valuation models for commercial real estate with 3 more co-founders. Experienced in investment banking, M&A analysis, and financial modeling.
-
-## 🚀 Featured Projects
-
-### ValuEstate - ML-Powered CRE Valuation Platform
-- Developed machine learning models for commercial real estate valuation across multiple sectors
-- Implemented predictive analytics using vacancy rates, household formation, and transportation network data
-- Created an AI-driven UI delivering multi-scenario property valuations
-- **Tech Stack**: Python, Machine Learning, Data Analytics
-
-### Financial Market Analysis Tools
-- Built comprehensive M&A valuation models for IBM-Perficient acquisition analysis
-- Developed Super-Priority Exchange models for bankruptcy risk assessment
-- Created WACC and Adjusted EBITDA calculation systems for cybersecurity industry valuations
-- **Skills Applied**: Financial Modeling, Python, Data Analysis
-
-### Research Publications
-- Published paper: "The Effect of New Financial Information on Stock Markets"
-- Focus on quantitative analysis of market reactions to financial data
-- [View Paper](https://drive.google.com/drive/folders/1HCNIvcxpTbBukOlQ7cmqFyJuZZuJJotQ?usp=sharing)
-
-## 💻 Technical Skills
-- **Programming Languages**: Python, SQL, JavaScript, Rust
-- **Data Analysis**: Financial Modeling, Valuation, ML/AI
-- **Tools & Frameworks**: [Specific frameworks and tools to be added]
-
-## 🌐 Languages
-- Portuguese (Native)
-- English (Native)
-- Spanish (Native)
-- German (Limited)
-
-## 📈 Professional Experience
-
-### Internal M&A Advisor - Grupo Telles
-- Led valuation analysis for subsidiary sale of Brazilian conglomerate
-- Coordinated with cross-functional teams for financial modeling
-- **Duration**: May 2024 - Oct 2024
-
-### Investment Banking Intern - RGS Partners
-- Conducted market research in Renewable Energy, AgTech, Infrastructure sectors
-- Applied data-driven approaches to client prospection
-- **Duration**: Jun 2023 - Aug 2023
-
-### Investment Banking Intern - Astor Capital
-- Created financial models for international transactions
-- Developed valuation frameworks for retail and cybersecurity sectors
-- **Duration**: April 2023 - Jun 2023
-
-## 📚 Education
-**University of Notre Dame - Mendoza College of Business**
-- BBA in Finance
-- Minors: German, Computer & Digital Technologies
-- GPA: 3.5/4.0
-- Expected Graduation: May 2025
-
-## 🏆 Achievements
-- Winner, Morgan Stanley M&A Pitch Competition
-- [Additional achievements to be added]
-
-## 🔍 Interests
-- Painting
-- Geoguessr
-- Brazilian Jiu-jitsu
-- Pharmaceutical Research
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emanuel-telles-chaves-7b8065233)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:emanuel.telleschaves@gmail.com)
 
 ---
-📫 **Contact Me**: [etellesc@nd.edu](mailto:etellesc@nd.edu) [telleschaves738@gmail.com](mailto:telleschaves738@gmail.com)
-<!--
-**Emanuel-TellesChaves/Emanuel-TellesChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Summary  
+Results‑driven **finance × data‑science** professional applying machine‑learning to real‑world financial problems. Co‑founder & technical lead of **ValuEstate**, a ML‑powered commercial‑real‑estate valuation platform. Investment‑banking experience plus a portfolio of production‑grade analytics apps built with Python & Streamlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Repositories (⭐ = pinned)
+
+| ⭐ Repo | What it Demonstrates | Quick Link |
+| ------ | ------------------- | ---------- |
+| **basic_streamlit_app** | *Headline Finder with Sentiment Analysis* – TF‑IDF search, weighted VADER sentiment, Streamlit UI | [`/basic_streamlit_app`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/basic_streamlit_app) |
+| **StreamlitAppFinal** | *Portfolio Performance Analyzer & Backtester* – returns, Sharpe, drawdowns, growth‑of‑\$10k | [`/StreamlitAppFinal`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/StreamlitAppFinal) |
+| **TidyData_Project** | *Federal R&D Spending Analysis* – tidy‑data transformation, long‑term trend viz | [`/TidyData_Project`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/TidyData_Project) |
+| **NERStreamlitApp** | *Custom Named‑Entity Recognition* – spaCy EntityRuler with user‑defined rules | [`/NERStreamlitApp`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/NERStreamlitApp) |
+
+> **Tip:** Pin these four repos in GitHub’s *“Customize your pins”* dialog so they always appear at the top of your profile.
+
+---
+
+## 🛠️ Technical & Financial Skills  
+
+| Domain | Proficiencies |
+| ------ | ------------- |
+| **Programming / Data** | Python (pandas, NumPy, scikit‑learn, spaCy, NLTK) · SQL · Git · Excel |
+| **Visualization** | Matplotlib · Seaborn · Plotly · Streamlit |
+| **ML & NLP** | Predictive modeling · Sentiment analysis · NER · Data mining |
+| **Finance** | Portfolio optimization · Sharpe/Sortino · VaR · Equity & DCF valuation |
+| **Other** | Agile/Scrum · Bilingual (English & Portuguese) |
+
+---
+
+## 🎓 Education  
+
+- **Johns Hopkins University – Carey Business School**  
+  *M.S. Information Systems & Artificial Intelligence for Business* (Expected 2026)  
+
+- **University of Notre Dame – Mendoza College of Business**  
+  *B.B.A. Finance*, Minor in Computing & Digital Technologies (Class of 2025)  
+
+---
+
+## 💼 Professional Experience  
+
+### Co‑Founder & Technical Lead · **ValuEstate** *(2022 – Present)*  
+- Architected ML‑driven CRE valuation platform; integrated market, vacancy, & transit data.  
+ 
+
+### Analyst · **Notre Dame Investment Club** *(2021 – 2023)*  
+- Built equity models & pitched to a student‑managed \$1 M portfolio; one pick adopted.  
+
+
+
+---
+
+## 🚀 Project Highlights  
+
+| Project | Key Features | Stack |
+| ------- | ------------ | ----- |
+| **Headline Finder w/ Sentiment** | TF‑IDF search · weighted VADER sentiment · interactive filters | Python · Streamlit |
+| **Portfolio Analyzer & Backtester** | Returns & risk metrics · growth‑of‑\$10k chart · drawdowns | Python · Plotly |
+| **Federal R&D Analysis** | Tidy‑data pipeline · 40‑yr trend viz · GDP % spend | Python · Matplotlib |
+| **Custom NER App** | User‑defined entities · spaCy EntityRuler · color‑coded highlights | Python · spaCy |
+
+---
+
+## 🏆 Achievements  
+
+- *Dean’s List* – University of Notre Dame  
+- Selected for **IDEA Center Green‑Light Accelerator** (ValuEstate)  
+- 2nd Place – Undergraduate Investment Pitch Competition  
+
+---
+
+## 🎯 Interests  
+
+Fintech innovation · ML for market prediction · Cyber‑security of financial data · Competitive boxing (Bengal Bouts) · Travel · Economic history
+
+---
+
+## 📫 Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-telles-chaves-7b8065233)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emanuel.telleschaves@gmail.com)
+
