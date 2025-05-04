@@ -5,14 +5,14 @@
 
 ---
 
-## 💼 Summary  
+##  Summary  
 Results‑driven **finance × data‑science** professional applying machine‑learning to real‑world financial problems. Co‑founder & Financial lead of **ValuEstate**, a ML‑powered commercial‑real‑estate valuation platform. Investment‑banking experience plus a portfolio of production‑grade analytics apps built with Python & Streamlit.
 
 ---
 
-## 📂 Featured Repositories (⭐ = pinned)
+## Featured Repositories 
 
-| ⭐ Repo | What it Demonstrates | Quick Link |
+| Repo | What it Demonstrates | Quick Link |
 | ------ | ------------------- | ---------- |
 | **basic_streamlit_app** | *Headline Finder with Sentiment Analysis* – TF‑IDF search, weighted VADER sentiment, Streamlit UI | [`/basic_streamlit_app`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/basic_streamlit_app) |
 | **StreamlitAppFinal** | *Portfolio Performance Analyzer & Backtester* – returns, Sharpe, drawdowns, growth‑of‑\$10k | [`/StreamlitAppFinal`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/StreamlitAppFinal) |
@@ -23,7 +23,7 @@ Results‑driven **finance × data‑science** professional applying machine
 
 ---
 
-## 🛠️ Technical & Financial Skills  
+## Technical & Financial Skills  
 
 | Domain | Proficiencies |
 | ------ | ------------- |
@@ -35,7 +35,7 @@ Results‑driven **finance × data‑science** professional applying machine
 
 ---
 
-## 🎓 Education  
+## Education  
 
 - **Johns Hopkins University – Carey Business School**  
   *M.S. Information Systems & Artificial Intelligence for Business* (Expected 2026)  
@@ -45,9 +45,9 @@ Results‑driven **finance × data‑science** professional applying machine
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
-### Co‑Founder & Technical Lead · **ValuEstate** *(2022 – Present)*  
+### Co‑Founder & Financial Lead · **ValuEstate** *(2022 – Present)*  
 - Architected ML‑driven CRE valuation platform; integrated market, vacancy, & transit data.  
  
 
@@ -58,7 +58,7 @@ Results‑driven **finance × data‑science** professional applying machine
 
 ---
 
-## 🚀 Project Highlights  
+## Project Highlights  
 
 | Project | Key Features | Stack |
 | ------- | ------------ | ----- |
@@ -70,13 +70,13 @@ Results‑driven **finance × data‑science** professional applying machine
 ---
 
 
-## 🎯 Interests  
+## Interests  
 
 Fintech innovation · ML for market prediction · Cyber‑security of financial data · Competitive boxing (Bengal Bouts) · Travel · Economic history
 
 ---
 
-## 📫 Contact  
+## Contact  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-telles-chaves-7b8065233)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emanuel.telleschaves@gmail.com)
