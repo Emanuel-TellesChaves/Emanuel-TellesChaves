@@ -5,11 +5,6 @@
 
 ---
 
-##  Summary  
- **finance × data‑science** professional applying machine‑learning to real‑world financial problems. 
-
----
-
 ## Featured Repositories 
 
 | Repo | Purpose | Quick Link |
