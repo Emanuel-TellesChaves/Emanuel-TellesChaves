@@ -19,8 +19,6 @@
 | **TidyData_Project** | *Federal R&D Spending Analysis* – tidy‑data transformation, long‑term trend viz | [`/TidyData_Project`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/TidyData_Project) |
 | **NERStreamlitApp** | *Custom Named‑Entity Recognition* – spaCy EntityRuler with user‑defined rules | [`/NERStreamlitApp`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/NERStreamlitApp) |
 
-> **Tip:** Pin these four repos in GitHub’s *“Customize your pins”* dialog so they always appear at the top of your profile.
-
 ---
 
 ## Technical & Financial Skills  
