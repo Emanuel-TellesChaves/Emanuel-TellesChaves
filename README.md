@@ -12,7 +12,7 @@
 
 ## Featured Repositories 
 
-| Repo | What it Demonstrates | Quick Link |
+| Repo | Purpose | Quick Link |
 | ------ | ------------------- | ---------- |
 | **basic_streamlit_app** | *Headline Finder with Sentiment Analysis* – TF‑IDF search, weighted VADER sentiment, Streamlit UI | [`/basic_streamlit_app`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/basic_streamlit_app) |
 | **StreamlitAppFinal** | *Portfolio Performance Analyzer & Backtester* – returns, Sharpe, drawdowns, growth‑of‑\$10k | [`/StreamlitAppFinal`](https://github.com/Emanuel-TellesChaves/ETELLESCHAVES-Python-Portfolio/tree/main/StreamlitAppFinal) |
@@ -36,21 +36,10 @@
 ## Education  
 
 - **Johns Hopkins University – Carey Business School**  
-  *M.S. Information Systems & Artificial Intelligence for Business* (Expected 2026)  
+  *M.S. Information Systems & Artificial Intelligence for Business, Dean's Scholar* (August, 2026)  
 
 - **University of Notre Dame – Mendoza College of Business**  
-  *B.B.A. Finance*, Minor in Computing & Digital Technologies (Class of 2025)  
-
----
-
-## Professional Experience  
-
-### Co‑Founder & Financial Lead · **ValuEstate** *(2022 – Present)*  
-- Architected ML‑driven CRE valuation platform; integrated market, vacancy, & transit data.  
- 
-
-### Analyst · **Notre Dame Investment Club** *(2021 – 2023)*  
-- Built equity models & pitched to a student‑managed \$1 M portfolio; one pick adopted.  
+  *B.B.A. Finance*, Minor in Computing & Digital Technologies (May, 2025)  
 
 
 
@@ -67,12 +56,6 @@
 
 ---
 
-
-## Interests  
-
-Fintech innovation · ML for market prediction · Cyber‑security of financial data · Competitive boxing (Bengal Bouts) · Travel · Economic history
-
----
 
 ## Contact  
 
