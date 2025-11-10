@@ -6,7 +6,7 @@
 ---
 
 ##  Summary  
-Results‑driven **finance × data‑science** professional applying machine‑learning to real‑world financial problems. Co‑founder & Financial lead of **ValuEstate**, a ML‑powered commercial‑real‑estate valuation platform. Investment‑banking experience plus a portfolio of production‑grade analytics apps built with Python & Streamlit.
+ **finance × data‑science** professional applying machine‑learning to real‑world financial problems. 
 
 ---
 
